@@ -1,4 +1,5 @@
 # Radar-Detector
+Radar Detector is an ultrasonic sensor attached on a servo on a breadboard embedded with arduino Uno. This detects the distance of an object from the sensor along with its coordinates from the radar. It is used to successfully find the distance, location and direction of an obstacle from the radar.
 
 
 ## Instructions:
